@@ -1,13 +1,13 @@
-# 🧠 MRI Data Visualization
+# MRI Data Visualization
 
-## 📌 Objective
+## Objective
 The goal of this project is to demonstrate how to read, parse, and visualize medical imaging data stored in **NIfTI (`.nii`)** and **DICOM (`.dcm`)** formats using Python. Libraries such as `nibabel`, `pydicom`, and `matplotlib` are used to explore both low-level and high-level operations on 3D volumetric medical data.
 
-> ✅ **All detailed answers, code implementations, and discussions are included in the notebook:** `mri_data_visualisation.ipynb`
+> **All detailed answers, code implementations, and discussions are included in the notebook:** `mri_data_visualisation.ipynb`
 
 ---
 
-## 📄 Contents of the Notebook
+## Contents of the Notebook
 
 The notebook addresses the following key questions and tasks:
 
@@ -32,7 +32,7 @@ The notebook addresses the following key questions and tasks:
 
 ---
 
-## 📚 Libraries
+## Libraries
 
 - `nibabel`
 - `pydicom`
@@ -43,6 +43,6 @@ The notebook addresses the following key questions and tasks:
 
 ---
 
-## 📝 Note
+## Note
 
 This repository contains the final notebook which is `mri_data_visualisation.ipynb` and also the rough work kaggle notebook as I have mentioned in the documentation in the code.
