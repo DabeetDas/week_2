@@ -1,7 +1,7 @@
 # MRI Data Visualization
 
 ## Objective
-The goal of this project is to demonstrate how to read, parse, and visualize medical imaging data stored in **NIfTI (`.nii`)** and **DICOM (`.dcm`)** formats using Python. Libraries such as `nibabel`, `pydicom`, and `matplotlib` are used to explore both low-level and high-level operations on 3D volumetric medical data.
+The goal of this project is to demonstrate how to read, parse, and visualize medical imaging data stored in **NIfTI (`.nii`)** and **DICOM (`.dcm`)** formats using Python. Libraries such as `nibabel`, `pydicom`, and `matplotlib` are used to explore such medical data.
 
 > **All detailed answers, code implementations, and discussions are included in the notebook:** `mri_data_visualisation.ipynb`
 
