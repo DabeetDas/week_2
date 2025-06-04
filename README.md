@@ -46,3 +46,4 @@ The notebook addresses the following key questions and tasks:
 ## Note
 
 This repository contains the final notebook which is `mri_data_visualisation.ipynb` and also the rough work kaggle notebook as I have mentioned in the documentation in the code.
+Please note that the corrected visualisation of the NII files can be found in the file `nii_work.ipynb` - I have updated thsi file after the doubt clearing session.
